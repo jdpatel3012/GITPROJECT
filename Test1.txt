@@ -1,2 +1,4 @@
 HI test1
 Chanegd in gitproject 
+
+Relesed new tag: v0.0.2
